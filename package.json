@@ -1,0 +1,33 @@
+{
+  "name": "file-sharing",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "formidable": "^3.5.1",
+    "jszip": "^3.10.1",
+    "next": "14.2.14",
+    "next.js": "^1.0.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "shadcn": "^2.1.0",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/formidable": "^3.4.5",
+    "@types/node": "^20.16.10",
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18",
+    "@types/uuid": "^10.0.0",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.14",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
